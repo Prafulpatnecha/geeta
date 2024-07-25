@@ -3,9 +3,12 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:geeta/modal/home_modal.dart';
+import 'package:geeta/utils/list_modal.dart';
 
 class HomeProvider extends ChangeNotifier
 {
+  List<ListModal> addList=[];
+  late int selectIndex;
   List<GeetaModal> geetaList=[];
   Future<void> initState()
   async {
@@ -18,14 +21,13 @@ class HomeProvider extends ChangeNotifier
   {
     initState();
   }
-  String geetaFuntion()
+  void selectFuntion(int index)
   {
-    String geetaString= geetaList[0].o1.hindi[10];
-    // if(geetaString[0]==' ')
-    // {
-    print(geetaString[5]+'jfbv');
-
-    // }
-    return geetaString;
+    selectIndex=index;
+    notifyListeners();
+  }
+  void addListFuntion(int valueIndex)
+  {
+    addList.add(ListModal(index1: selectIndex, index2: valueIndex));
   }
 }

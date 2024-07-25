@@ -1,5 +1,8 @@
 [
   {
+    "number": "01",
+    "title": "अर्जुनविषादयोगः",
+    "image": "assets/image/chapter01.png",
     "o1": {
       "english": [
         "1 \nThus, in the Upanishads of the glorious Bhagavad Gita, the science of the Eternal, the scripture of Yoga, the dialogue between Sri Krishna and Arjuna, ends the first chapter entitled 'The Yoga of Arjuna's Dejection'. Dhritarashtra said: O Sanjaya, assembled in the holy land of Kurukshetra and eager to fight, what did my sons and the sons of Pandu do? (1)",
@@ -150,6 +153,9 @@
     }
   },
   {
+    "number": "02",
+    "title": "सांख्ययोगः",
+    "image": "assets/image/chapter02.png",
     "o1": {
       "english": [
         "1\n Chapter 2: Sankhya Yoga\nSanjaya said: \nSeeing Arjuna full of compassion, his mind depressed, his eyes full of tears, Madhusudana, Krsna, spoke the following words. (2.1)",
@@ -446,6 +452,9 @@
     }
   },
   {
+    "number": "03",
+    "title": "कर्मयोगः",
+    "image": "assets/image/chapter03.png",
     "o1": {
       "english": [
         "1-2\n Arjuna said: If you consider knowledge superior to action, O Janardana, then why do you engage me in this terrible action, O Kesava? With these apparently confusing words, you seem to bewilder my understanding; therefore, please tell me decisively that one way by which I may attain the highest good. ॥1-2॥",
@@ -622,6 +631,9 @@
     }
   },
   {
+    "number": "04",
+    "title": "ज्ञानकर्मसंन्यासयोगः",
+    "image": "assets/image/chapter04.png",
     "o1": {
       "english": [
         "1\n Chapter 4: Jnana Yoga (The Yoga of Knowledge)",
@@ -798,6 +810,9 @@
     }
   },
   {
+    "number": "05",
+    "title": "कर्मसंन्यासयोगः",
+    "image": "assets/image/chapter05.png",
     "o1": {
       "english": [
         "1\n Chapter 5: The Yoga of Renunciation and the Yoga of Action. Arjuna said: O Krishna, You praise the renunciation of action and the yoga of action. Please tell me which of these is the better path. (1)",
@@ -918,6 +933,9 @@
     }
   },
   {
+    "number": "06",
+    "title": "आत्मसंयमयोगः",
+    "image": "assets/image/chapter06.png",
     "o1": {
       "english": [
         "1\n Thus, the sixth chapter: The Yoga of Self-Control. The Blessed Lord said: He who performs his duties without attachment, surrendering the results to the Supreme, is a renunciant and a yogi, not he who lights no fire and performs no duties.",
@@ -1106,6 +1124,9 @@
     }
   },
   {
+    "number": "07",
+    "title": "ज्ञानविज्ञानयोगः",
+    "image": "assets/image/chapter07.png",
     "o1": {
       "english": [
         "1\n Thus, the seventh chapter: The Yoga of Knowledge and Wisdom. The Blessed Lord said: Arjuna, listen to how you can know Me in full, as I explain the Yoga of Knowledge and Wisdom, which will remove all your doubts.",
@@ -1238,6 +1259,9 @@
     }
   },
   {
+    "number": "08",
+    "title": "अक्षरपरब्रह्मयोगः",
+    "image": "assets/image/chapter08.png",
     "o1": {
       "english": [
         "1-2\n Chapter 8: The Yoga of the Imperishable Absolute. Arjuna said: What is that Brahman? What is the self (Atman)? What is action, O Supreme Person? What is the nature of the elements and the divine? How is the supreme person to be understood at the time of death? How should the knowledge of the supreme being be obtained by the one who is dedicated and controlled? (1-2)",
@@ -1342,6 +1366,9 @@
     }
   },
   {
+    "number": "09",
+    "title": "राजविद्याराजगुह्ययोगः",
+    "image": "assets/image/chapter09.png",
     "o1": {
       "english": [
         "1\n Thus, the ninth chapter of the Bhagavad Gita is explained: The Yoga of Royal Knowledge and Royal Secret. The Blessed Lord said: I will now explain to you this most secret knowledge and wisdom, knowing which you shall be liberated from all that is inauspicious.",
@@ -1482,6 +1509,9 @@
     }
   },
   {
+    "number": "10",
+    "title": "विभूतियोगः",
+    "image": "assets/image/chapter10.png",
     "o1": {
       "english": [
         "1\n Chapter 10: The Yoga of Divine Glories. The Blessed Lord said: Listen again, O mighty-armed Arjuna, to my supreme word, which I shall speak to you for your benefit and because you are dear to me. ॥1॥",
@@ -1650,6 +1680,9 @@
     }
   },
   {
+    "number": "11",
+    "title": "विश्वरूपसंदर्शनयोगः",
+    "image": "assets/image/chapter11.png",
     "o1": {
       "english": [
         "1\n Chapter 11: The Vision of the Universal Form\nArjuna said: \nFor the sake of my enlightenment, I have heard from You the most confidential and profound knowledge of the Self. By which I have been released from my delusion.\n",
@@ -1862,6 +1895,9 @@
     }
   },
   {
+    "number": "12",
+    "title": "भक्तियोगः",
+    "image": "assets/image/chapter12.png",
     "o1": {
       "english": [
         "1\n Thus ends the Twelfth Chapter: The Yoga of Devotion. Arjuna said: Those who are ever steadfast and who worship You with unwavering faith, and those who worship the imperishable and unmanifested (Brahman), which of these are better versed in yoga? ॥1॥",
@@ -1938,6 +1974,9 @@
     }
   },
   {
+    "number": "13",
+    "title": "क्षेत्रक्षेत्रज्ञविभागयोगः",
+    "image": "assets/image/chapter13.png",
     "o1": {
       "english": [
         "1\n The Thirteenth Chapter: The Field and the Knower of the Field",
@@ -2070,6 +2109,9 @@
     }
   },
   {
+    "number": "14",
+    "title": "गुणत्रयविभागयोगः",
+    "image": "assets/image/chapter14.png",
     "o1": {
       "english": [
         "1\n Thus, the fourteenth chapter: The Yoga of the Division of the Three Gunas. n'The Supreme Lord said: n'I shall explain to you once more the supreme knowledge of knowledge. n'By knowing which, all the sages attained the supreme perfection.'",
@@ -2166,6 +2208,9 @@
     }
   },
   {
+    "number": "15",
+    "title": "पुरुषोत्तमप्राप्तियोगः",
+    "image": "assets/image/chapter15.png",
     "o1": {
       "english": [
         "1\n Thus ends the Fifteenth Chapter. The Yoga of the Supreme Person. The Blessed Lord said: They speak of the Ashvattha tree as having its roots above and branches below, and its leaves as the Vedic hymns. He who knows this tree is the knower of the Vedas. (1)",
@@ -2254,6 +2299,9 @@
     }
   },
   {
+    "number": "16",
+    "title": "दैवासुरसंपद्विभागयोगः",
+    "image": "assets/image/chapter16.png",
     "o1": {
       "english": [
         "1-3\n Chapter 16: The Division between the Divine and the Demoniacal\n\nThe Blessed Lord said:\n1. Fearlessness, purity of heart, steadiness in knowledge and yoga, charity, self-control, and performance of sacrifice, study, and straightforwardness.\n2. Non-violence, truthfulness, freedom from anger, renunciation, peace, and freedom from malice.\n3. Compassion towards all living beings, absence of envy, gentleness, modesty, and absence of fickleness.\n\nThese constitute the divine qualities of one born with divine nature, O Bharata.",
@@ -2342,6 +2390,9 @@
     }
   },
   {
+    "number": "17",
+    "title": "श्रद्धात्रयविभागयोगः",
+    "image": "assets/image/chapter17.png",
     "o1": {
       "english": [
         "1\n Chapter 17: The Yoga of the Threefold Faith\nArjuna said: Those who, discarding scriptural ordinances, worship with faith, what is their state, O Krishna? Is it Sattva, Rajas, or Tamas? \n1",
@@ -2458,6 +2509,9 @@
     }
   },
   {
+    "number": "18",
+    "title": "मोक्षसंन्यासयोगः",
+    "image": "assets/image/chapter18.png",
     "o1": {
       "english": [
         "1\n Chapter 18: The Yoga of Liberation by Renunciation\nArjuna said: O Krishna, I wish to understand the true nature of renunciation (sannyasa) and of renunciation of action (tyaga), and the distinction between the two.",

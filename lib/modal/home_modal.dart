@@ -2,13 +2,14 @@
 
 class GeetaModal
 {
-    late O1 o1;
+  late String number,title,image;
+  late O1 o1;
 
-    GeetaModal({required this.o1});
+  GeetaModal({required this.number,required this.title,required this.image,required this.o1});
 
   factory GeetaModal.fromJson(Map m1)
     {
-      return GeetaModal(o1: O1.fromOne(m1['o1']));
+      return GeetaModal(o1: O1.fromOne(m1['o1']), number: m1['number'],image: m1['image'],title: m1['title']);
     }
 }
 
