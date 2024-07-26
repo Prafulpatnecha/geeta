@@ -2,13 +2,23 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-class SplashPage extends StatelessWidget {
+class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
 
   @override
+  State<SplashPage> createState() => _SplashPageState();
+}
+
+class _SplashPageState extends State<SplashPage> {
+  @override
+  void didChangeDependencies() {
+    // TODO: implement didChangeDependencies
+    super.didChangeDependencies();
+    Timer(const Duration(seconds: 3), () => Navigator.of(context).pushReplacementNamed('/'),);
+  }
+  @override
   Widget build(BuildContext context) {
-    Timer.periodic(Duration(seconds: 4), (timer) => Navigator.of(context).pushReplacementNamed('/'),);
-    return Scaffold(
+    return const Scaffold(
       body: Stack(
         children: [
           Align(

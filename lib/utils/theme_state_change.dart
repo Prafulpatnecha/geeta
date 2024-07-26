@@ -11,4 +11,7 @@ class ThemeStateChange
     scaffoldBackgroundColor: geetaColor,
     // colorScheme: ColorScheme()
   );
+  static ThemeData themeDark=ThemeData.dark().copyWith(
+    cardTheme: CardTheme(color: Colors.brown.shade900)
+  );
 }

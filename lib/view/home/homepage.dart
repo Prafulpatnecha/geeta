@@ -15,7 +15,9 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('श्रीमद्भगवद्गीता'),
-        leading: const Icon(Icons.offline_bolt_outlined),
+        leading: IconButton(onPressed: () {
+          homeProviderFalse.modeTheme(!homeProviderFalse.isDark);
+        },icon:Icon(Icons.offline_bolt_outlined)),
         actions: [
           IconButton(onPressed: () {
             Navigator.of(context).pushNamed('/book');

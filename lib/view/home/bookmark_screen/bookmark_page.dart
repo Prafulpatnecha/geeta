@@ -30,14 +30,14 @@ class BookmarkPage extends StatelessWidget {
                   Card(
                     //todo color set
                     child: ListTile(
-                      title: Text(homeProviderTrue.geetaList[homeProviderTrue.addList[index].index1!].o1.english[homeProviderTrue.addList[index].index2!],textAlign: TextAlign.center,),
+                      title: Text(homeProviderTrue.geetaList[int.parse(homeProviderTrue.addList[index].split(" ").sublist(1,2).join(" "))].o1.english[int.parse(homeProviderTrue.addList[index].split(" ").sublist(2,3).join(" "))],textAlign: TextAlign.center,),
                     ),
                   ),
                   SizedBox(height: 20,),
                   Card(
                     //todo color set
                     child: ListTile(
-                      title: Text(homeProviderTrue.geetaList[homeProviderTrue.addList[index].index1!].o1.gujarati[homeProviderTrue.addList[index].index2!],textAlign: TextAlign.center,),
+                      title: Text(homeProviderTrue.geetaList[int.parse(homeProviderTrue.addList[index].split(" ").sublist(1,2).join(" "))].o1.gujarati[int.parse(homeProviderTrue.addList[index].split(" ").sublist(2,3).join(" "))],textAlign: TextAlign.center,),
                     ),
                   ),
                 ],
@@ -48,12 +48,11 @@ class BookmarkPage extends StatelessWidget {
         child: Card(
           child: Column(
             children: [
-              ListTile(title: Text(homeProviderTrue.geetaList[homeProviderTrue.addList[index].index1!].o1.sanskrit[homeProviderTrue.addList[index].index2!],textAlign: TextAlign.center,),
+              ListTile(title: Text(homeProviderTrue.geetaList[int.parse(homeProviderTrue.addList[index].split(" ").sublist(1,2).join(" "))].o1.sanskrit[int.parse(homeProviderTrue.addList[index].split(" ").sublist(2,3).join(" "))].toString().replaceAll('n', '\n'),textAlign: TextAlign.center,),
                 ),
-              ListTile(title: Text(homeProviderTrue.geetaList[homeProviderTrue.addList[index].index1!].o1.hindi[homeProviderTrue.addList[index].index2!],textAlign: TextAlign.center,),subtitle: IconButton(onPressed: () {
+              ListTile(title: Text(homeProviderTrue.geetaList[int.parse(homeProviderTrue.addList[index].split(" ").sublist(1,2).join(" "))].o1.hindi[int.parse(homeProviderTrue.addList[index].split(" ").sublist(2,3).join(" "))],textAlign: TextAlign.center,),subtitle: IconButton(onPressed: () {
                 homeProviderFalse.removeListBook(index);
-              }, icon: Icon(Icons.delete_outline)),),
-
+              }, icon: const Icon(Icons.delete_outline),),),
             ],
           ),
         ),

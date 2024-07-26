@@ -72,7 +72,7 @@ class ShowPage extends StatelessWidget {
                 ListTile(
                   title: Text(
                     homeProviderTrue
-                        .geetaList[homeProviderTrue.selectIndex].o1.hindi[index],
+                        .geetaList[homeProviderTrue.selectIndex].o1.hindi[index].toString(),
                     textAlign: TextAlign.center,
                   ),
                 ),
