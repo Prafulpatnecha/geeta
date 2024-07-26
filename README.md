@@ -31,12 +31,10 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta10.png" height=450px hspace=20>
 </div>
 
-## Details 
-The "Departure" app aims to create an immersive and personalized experience for users seeking
-spiritual guidance through the teachings of the Bhagvat Geeta. By incorporating local JSON
-storage, Shared Preferences, like functionality, themes, chapter images, splash screens, detailed
-verse screens, and multi-language support, the app offers a comprehensive solution for users to
-explore and engage with this sacred text.
+## Description 
+The Bhagavad Gita is considered one of the most important spiritual classics in the world. It has influenced various fields including philosophy, theology, literature, and psychology. Its teachings are universal and transcend religious and cultural boundaries, offering guidance on how to live a righteous life, achieve spiritual enlightenment, and attain inner peace.
+## Hindi
+भगवद गीता को दुनिया के सबसे महत्वपूर्ण आध्यात्मिक ग्रंथों में से एक माना जाता है। इसने दर्शन, धर्मशास्त्र, साहित्य और मनोविज्ञान सहित विभिन्न क्षेत्रों को प्रभावित किया है। इसकी शिक्षाएँ सार्वभौमिक हैं और धार्मिक और सांस्कृतिक सीमाओं से परे हैं, जो धार्मिक जीवन जीने, आध्यात्मिक ज्ञान प्राप्त करने और आंतरिक शांति प्राप्त करने के बारे में मार्गदर्शन प्रदान करती हैं।
 
 <h1></h1>
 <div align="center">
@@ -46,5 +44,8 @@ explore and engage with this sacred text.
 
 
 
-https://github.com/user-attachments/assets/7457df38-25fc-4676-8335-6174a9a723cb
+
+https://github.com/user-attachments/assets/fded4d82-b898-4c34-a63e-9a7363c922f8
+
+
 
