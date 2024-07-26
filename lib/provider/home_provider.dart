@@ -30,4 +30,33 @@ class HomeProvider extends ChangeNotifier
   {
     addList.add(ListModal(index1: selectIndex, index2: valueIndex));
   }
+  bool checkLoop(int? index1,int? index2)
+  {
+    bool checkValueBool=false;
+        for(int i=0; i<addList.length; i++)
+        {
+          if(addList[i].index1==index1 && addList[i].index2==index2)
+            {
+              checkValueBool=true;
+            }
+        }
+    notifyListeners();
+    return checkValueBool;
+  }
+  void removeListBook(int index)
+  {
+    addList.removeAt(index);
+    notifyListeners();
+  }
+  void removeListBook1(int? index1,int? index2)
+  {
+    for(int i=0; i<addList.length; i++)
+    {
+      if(addList[i].index1==index1 && addList[i].index2==index2)
+      {
+        addList.removeAt(i);
+      }
+    }
+    notifyListeners();
+  }
 }

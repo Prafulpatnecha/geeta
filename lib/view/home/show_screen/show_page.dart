@@ -77,8 +77,15 @@ class ShowPage extends StatelessWidget {
                   ),
                 ),
                 IconButton(onPressed: () {
-                  homeProviderFalse.addListFuntion(index);
-                }, icon: const Icon(Icons.favorite_border))
+                  if(!homeProviderFalse.checkLoop(homeProviderTrue.selectIndex,index) || homeProviderTrue.addList.isEmpty)
+                    {
+                      homeProviderFalse.addListFuntion(index);
+                    }
+                  else
+                    {
+                      homeProviderFalse.removeListBook1(homeProviderTrue.selectIndex,index);
+                    }
+                }, icon: (homeProviderFalse.checkLoop(homeProviderTrue.selectIndex,index))? Icon(Icons.favorite,color: Colors.red,):Icon(Icons.favorite_border),),
               ],
             ),
           ),

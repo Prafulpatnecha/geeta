@@ -15,6 +15,7 @@ class MyGeeta extends StatelessWidget {
       darkTheme: ThemeData.dark(),
       themeMode: ThemeMode.system,
       debugShowCheckedModeBanner: false,
+      initialRoute: '/view',
       routes: AppRoutes.routes,
     );
   }
