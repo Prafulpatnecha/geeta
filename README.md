@@ -31,7 +31,8 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta10.png" height=450px hspace=20>
 </div>
 
-## The "Departure" app aims to create an immersive and personalized experience for users seeking
+## Details 
+The "Departure" app aims to create an immersive and personalized experience for users seeking
 spiritual guidance through the teachings of the Bhagvat Geeta. By incorporating local JSON
 storage, Shared Preferences, like functionality, themes, chapter images, splash screens, detailed
 verse screens, and multi-language support, the app offers a comprehensive solution for users to
