@@ -48,6 +48,7 @@ class HomePage extends StatelessWidget {
     );
   }
 }
+
 // Text('${geetaString}',textAlign: TextAlign.center,style: TextStyle(fontSize: 20),),
 // Text('${homeProvider.geetaList[0].o1.sanskrit[0].toString().replaceAll("n", '\n').replaceAll("'", '')}',textAlign: TextAlign.center,style: TextStyle(fontSize: 20),),
 // Text('${homeProvider.geetaList[0].o1.hindi[0].toString()}',textAlign: TextAlign.center,style: TextStyle(fontSize: 20),),
