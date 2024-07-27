@@ -20,15 +20,16 @@ samples, guidance on mobile development, and a full API reference.
 <h3 align="center"><i>PR. 4 Departure</i></h3>
 <h1></h1>
 <div align="center">
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta1.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta2.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta3.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta4.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta5.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta6.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta7.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta8.png" height=450px hspace=20>
-<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta10.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_1.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_2.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_3.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_4.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_5.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_6.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_7.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_8.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_9.png" height=450px hspace=20>
+<img src="https://github.com/Prafulpatnecha/geeta/blob/master/geeta_image_10.png" height=450px hspace=20>
 </div>
 
 ## Description 
